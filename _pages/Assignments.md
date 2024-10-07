@@ -52,17 +52,17 @@ author_profile: true
 
 
 <div class="footnote">
-  <span style="color: red;"><sup>1</sup></span> Part 1 Group Assignmen. Find more information <a href="https://anastasiaGiachanou.github.io/adav-course/files/1stGA.html" target="_blank">here</a>.
+  <span style="color: red;"><sup>1</sup></span> Part 1 Group Assignmen. Find more information <a href="https://anastasiaGiachanou.github.io/adav-course1/files/1stGA.html" target="_blank">here</a>.
 </div>
 
 <div class="footnote">
-  <span style="color: red;"><sup>2</sup></span> Final Group Assignmen. Find more information <a href="https://anastasiaGiachanou.github.io/adav-course/files/FullGA.html" target="_blank">here</a>.
+  <span style="color: red;"><sup>2</sup></span> Final Group Assignmen. Find more information <a href="https://anastasiaGiachanou.github.io/adav-course1/files/FullGA.html" target="_blank">here</a>.
 </div>
 
 <div class="footnote">
-  <span style="color: red;"><sup>3</sup></span> You can find additional information <a href="https://anastasiaGiachanou.github.io/adav-course/Exam/" target="_blank">here</a>.
+  <span style="color: red;"><sup>3</sup></span> You can find additional information <a href="https://anastasiaGiachanou.github.io/adav-course1/Exam/" target="_blank">here</a>.
 </div>
 
 <div class="footnote">
-  <span style="color: red;"><sup>4</sup></span> Further details are available <a href="https://anastasiaGiachanou.github.io/adav-course/Labs/" target="_blank">here</a>.
+  <span style="color: red;"><sup>4</sup></span> Further details are available <a href="https://anastasiaGiachanou.github.io/adav-course1/Labs/" target="_blank">here</a>.
 </div>
