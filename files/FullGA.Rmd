@@ -1,6 +1,6 @@
 ---
 title: ""
-output: 
+output:
   html_document:
     toc: true
     toc_float: true
@@ -20,7 +20,7 @@ ___
 
 In this last part of group assignment, you will design and build an RShiny Application, using the work you did in part 1 of group assignment. The purpose of the shiny app is to visualize and provide analytical output for a dataset of your choice (see below), using appropriate visualization and analysis methods covered in this course. The RShiny Application should be a stand-alone application. That is, the user should be able to understand its purpose and outcomes from just the application (so without requiring any additional explanation outside of the application).
 
-For this part of the assignment, please continue working on the dataset you chose for part 1 of the group assignment, which can still be found [here](https://tshahedi.github.io/adav-course/files/datasets-assignment-1stGA.zip). A brief outline is repeated below. Each of these datasets has a large number of variables, and it is up to you which variables you will use/not use within your visualization and analysis process. Note that if you would like to adjust the variables you use in the final assignment compared to part 1, you can do so.
+For this part of the assignment, please continue working on the dataset you chose for part 1 of the group assignment, which can still be found [here](https://anastasiaGiachanou.github.io/adav-course/files/datasets-assignment-1stGA.zip). A brief outline is repeated below. Each of these datasets has a large number of variables, and it is up to you which variables you will use/not use within your visualization and analysis process. Note that if you would like to adjust the variables you use in the final assignment compared to part 1, you can do so.
 
 The deadline for handing in the full group assignment is on **June 10th (end of the day)**. The assignment should be uploaded on Black Board as a zip file, which contains the following:
 
@@ -84,7 +84,7 @@ Your grade will be determined by:
 
 ### Datasets:
 
-All datasets can be downloaded from [here](https://tshahedi.github.io/adav-course/files/datasets-assignment-1stGA.zip), a brief description of each can be found below:
+All datasets can be downloaded from [here](https://anastasiaGiachanou.github.io/adav-course/files/datasets-assignment-1stGA.zip), a brief description of each can be found below:
 
 #### 1. World Bank Indicators (WDB.csv)
 
